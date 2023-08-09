@@ -22,8 +22,11 @@ header {
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.384);
     font-family: Arial, Helvetica, sans-serif;
 }
-p, ul, ol, li {
+.container p, ul, ol, li {
     font-size: 18px;
+}
+.recipe{
+    max-width: 60%;
 }
 h3 {
     font-size: 25px;
