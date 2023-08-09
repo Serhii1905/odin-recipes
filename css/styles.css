@@ -39,3 +39,22 @@ ul {
     width: auto;
     margin-bottom: 0px;
 }
+.brief-info {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    width: 300px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    background-color: bisque;
+    padding: 10px 5px;
+    justify-content: center;
+}
+.brief-info li {
+    font-size: auto;
+    padding: 0px 5px;
+    margin: 5px 15px;
+}
+.brief-info p {
+    margin: 0px;
+}
