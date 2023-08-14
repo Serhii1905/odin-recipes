@@ -84,7 +84,7 @@ ul {
     overflow: hidden;
 }
 .recipe-card-content {
-    flex: 1;
+    flex: 1 2 0;
     display: flex;
     flex-flow: column;
     padding: 10px;
@@ -111,5 +111,6 @@ ul {
     margin-top: 0;
 }
 .recipe-card-text {
-    flex: 1;
+    flex: 1 1 0;
+    min-height: 0px;
 }
